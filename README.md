@@ -36,14 +36,16 @@ Proyecto para trabajar con ejercicios sencillos de for
    ```python
    >>> suma_digitos(0)
    0
-  >>> suma_digitos(12345)
-  15
-  >>> suma_digitos(9876)
-  30
-  >>> suma_digitos(1001)
-  2
+   >>> suma_digitos(12345)
+   15
+   >>> suma_digitos(9876)
+   30
+   >>> suma_digitos(1001)
+   2
    ```
-7. Función `contar_vocales` que, dada una cadena de texto, devuelva el número de vocales que contiene esa cadena. 
+
+5. Función `contar_vocales` que, dada una cadena de texto, devuelva el número de vocales que contiene esa cadena. 
+
 ```python
   >>> contar_vocales("Hola Mundo")
   4
